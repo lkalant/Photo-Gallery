@@ -1,4 +1,3 @@
-# assignment-2
 Photo gallery using JQuery
 
 Using provided images, data and HTML/CSS files
