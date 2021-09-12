@@ -1,4 +1,4 @@
-#Photo-Gallery
+# Photo-Gallery
 
 Photo gallery using JQuery
 
